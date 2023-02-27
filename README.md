@@ -1,2 +1,2 @@
 # Proxy-Filter-Rules
-自用补充分流规则
+补充自用 QuantumultX 及 Surge 分流规则
