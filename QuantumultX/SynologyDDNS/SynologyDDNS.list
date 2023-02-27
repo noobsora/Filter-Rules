@@ -1,0 +1,6 @@
+HOST,checkip.synology.com,SynologyDDNS
+HOST,ddns.synology.com,SynologyDDNS
+HOST,digitalocean.synology.com,SynologyDDNS
+HOST,checkip.digitalocean.synology.com,SynologyDDNS
+HOST,ddns-checkip.quickconnect.to,SynologyDDNS
+HOST,ddns-global.quickconnect.to,SynologyDDNS
