@@ -1,0 +1,1 @@
+QuantumultX filter rules
